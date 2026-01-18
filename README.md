@@ -25,6 +25,11 @@ https://sai222348.github.io/Weather-App/
 ## 🔗 API Used
 OpenWeatherMap — https://openweathermap.org/api
 
+## 📸 Screenshots
+
+![Home Page](Screenshots/weather-home.png)
+![Weather Result](Screenshots/weather-result.png)
+
 ## What I Learned
 - Fetching data from APIs using JavaScript
 - DOM manipulation
