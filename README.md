@@ -14,11 +14,16 @@ It fetches real-time weather data from a public weather API and displays it in a
 - JavaScript
 
 ## Live Demo
-(Add link after deployment)
+https://sai222348.github.io/Weather-App/
 
 ## How to Run Locally
-1. Clone the repository
-2. Open index.html in your browser
+1. Clone the repo  
+   `git clone https://github.com/Sai222348/Weather-App`
+2. Open `index.html` in a browser
+3. Add your own OpenWeatherMap API key in `script.js` (if used)
+
+## 🔗 API Used
+OpenWeatherMap — https://openweathermap.org/api
 
 ## What I Learned
 - Fetching data from APIs using JavaScript
