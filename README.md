@@ -27,8 +27,8 @@ OpenWeatherMap — https://openweathermap.org/api
 
 ## 📸 Screenshots
 
-![Home Page](Screenshots/weather-home.png)
-![Weather Result](Screenshots/weather-result.png)
+![Home Page](/Screenshorts/weather-home.png)
+![Weather Result](/Screenshorts/weather-result.png)
 
 ## What I Learned
 - Fetching data from APIs using JavaScript
